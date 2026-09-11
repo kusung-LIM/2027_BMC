@@ -48,7 +48,7 @@ NOL(야놀자) 예매 페이지의 공식 좌석배치도와 안내사항을 근
 | 문서 | 내용 |
 |---|---|
 | [01-seat-recommendation.md](01-seat-recommendation.md) | **Q1.** 편안함·무대 전체 조망·음향을 1순위, 가까움을 2순위로 한 좌석 추천 |
-| [02-w2-analysis.md](02-w2-analysis.md) | **Q2.** W2 구역 단독 분석 |
+| [02-w2-analysis.md](02-w2-analysis.md) | **Q2.** W2 구역 분석 + **실제 예매 좌석(1층 W2 5열 12~15번) 평가** |
 | [03-criteria-and-grades.md](03-criteria-and-grades.md) | **Q3.** 시야·음향·편안함·가성비 기준별 추천 + 전 구역 종합 등급 |
 | [04-venue-reference.md](04-venue-reference.md) | 좌석배치도 구조, FOH·딜레이 타워 위치, 공식 유의사항 원문 |
 
